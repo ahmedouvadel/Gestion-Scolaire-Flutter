@@ -1,16 +1,43 @@
-# etudiant
+# Gestion Scolaire Flutter
 
-A new Flutter project.
+Une application Flutter pour la gestion scolaire.
 
-## Getting Started
+## Fonctionnalités
 
-This project is a starting point for a Flutter application.
+- **Groupes** : Gérez les groupes d'étudiants facilement.
+- **Étudiants** : Affichez et gérez les informations des étudiants.
+- **Navigation** : Une navigation fluide grâce à Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Prérequis
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Avant de commencer, assurez-vous d'avoir :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://docs.flutter.dev/get-started/install) installé sur votre machine.
+- [Firebase CLI](https://firebase.google.com/docs/cli) configuré pour l'intégration backend.
+
+## Installation
+
+1. Clonez ce dépôt :
+   ```bash
+   git clone https://github.com/votre-utilisateur/votre-repo.git
+   ```
+2. Accédez au répertoire du projet :
+   ```bash
+   cd gestion-scolaire-flutter
+   ```
+3. Installez les dépendances :
+   ```bash
+   flutter pub get
+   ```
+4. Lancez l'application :
+   ```bash
+   flutter run
+   ```
+
+## Documentation Flutter
+
+Pour en savoir plus sur le développement Flutter, consultez les ressources suivantes :
+
+- [Lab : Créez votre première application Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook : Exemples utiles Flutter](https://docs.flutter.dev/cookbook)
+- [Documentation en ligne Flutter](https://docs.flutter.dev/)
